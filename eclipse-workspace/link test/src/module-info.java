@@ -1,0 +1,2 @@
+module singleLink_Palindrome { 
+}
